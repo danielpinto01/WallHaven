@@ -23,6 +23,7 @@ public class Controller implements ActionListener{
 		try {
 			fileManager.downloadFile(image);
 			manager = new Manager(fileManager.readPlayer());
+			fileManager.addImageFilter();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
