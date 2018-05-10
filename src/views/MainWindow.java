@@ -18,7 +18,7 @@ public class MainWindow extends JFrame{
 	private JPanelImages jPanelImages;
 	private JButton btnFilter;
 
-	public MainWindow(Controller controller) {
+	public MainWindow(Controller controller, ArrayList<Image> images) {
 		setLayout(new BorderLayout());
 		setBackground(Color.WHITE);
 		setTitle("WallpapersDownload v1.0");
@@ -27,21 +27,21 @@ public class MainWindow extends JFrame{
 		setExtendedState(MAXIMIZED_BOTH);		
 		setLocationRelativeTo(null);
 		
-		jPanelImages = new JPanelImages();
+		jPanelImages = new JPanelImages(images);
 		add(jPanelImages, BorderLayout.CENTER);
-		
+
 		btnFilter = new JButton("Filter");
 		btnFilter.setActionCommand(Events.FILTER.toString());
 		btnFilter.addActionListener(controller);
-		add(btnFilter, BorderLayout.SOUTH);
+		btnFilter.setBackground(Color.DARK_GRAY);
+		btnFilter.setForeground(Color.WHITE);
+		add(btnFilter, BorderLayout.NORTH);
 		
 		setVisible(true);
 	}
 	
-	public void setImages(ArrayList<ImageIcon> imagesFilter) {
-		System.out.println("11111");
-		jPanelImages.addArrayImageList(imagesFilter);
+	public void deleteImages(ArrayList<Image> images) {
+		jPanelImages.loadImage(images);
 		revalidate();
 	}
-	
 }

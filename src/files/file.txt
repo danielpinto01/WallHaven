@@ -2,16 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>WallpapersWide.com ❤ coco HD Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Display Desktop ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1</title>
-<meta name="description" content="WallpapersWide.com ❤ coco HD Desktop Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Monitor / Multi Display Desktops ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1" />
-<meta name="keywords" content="coco, Free, High, Resolution, Desktop, Wallpapers, Widescreen, Wide, Fullscreen, High, Definition, HD, Dual, Monitors, Mobile" />
+<title>WallpapersWide.com ❤ batman HD Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Display Desktop ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1</title>
+<meta name="description" content="WallpapersWide.com ❤ batman HD Desktop Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Monitor / Multi Display Desktops ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1" />
+<meta name="keywords" content="batman, Free, High, Resolution, Desktop, Wallpapers, Widescreen, Wide, Fullscreen, High, Definition, HD, Dual, Monitors, Mobile" />
 <meta name="distribution" content="Global" />
 <meta name="rating" content="General" />
 <meta name="language" content="en-us" />
 <meta name="robots" content="index,follow" />
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
-<link rel="alternate" href="/rss" type="application/rss+xml" title="WallpapersWide.com ❤ coco HD Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Display Desktop ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1 RSS" id="gallery" />
+<link rel="alternate" href="/rss" type="application/rss+xml" title="WallpapersWide.com ❤ batman HD Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Display Desktop ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1 RSS" id="gallery" />
 <style type="text/css" media="all">
 body{
 	background-color:#F9F9F9;
@@ -146,8 +146,8 @@ googletag.enableServices();
 
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
-<meta itemprop="name" content="WallpapersWide.com ❤ coco HD Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Display Desktop ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1" />
-<meta itemprop="description" content="WallpapersWide.com ❤ coco HD Desktop Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Monitor / Multi Display Desktops ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1" />
+<meta itemprop="name" content="WallpapersWide.com ❤ batman HD Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Display Desktop ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1" />
+<meta itemprop="description" content="WallpapersWide.com ❤ batman HD Desktop Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Monitor / Multi Display Desktops ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1" />
 <script type="text/javascript">
 (function(){
   var bsa = document.createElement('script');
@@ -859,35 +859,35 @@ googletag.enableServices();
 </div>
 <div class="side-spacer"></div>
 </div>              <div class="content" id="content">
-                <div class="breadCrumbs" itemprop="breadcrumb"><a href="/" title="WallpapersWide.com ❤ Free High Quality Desktop Wallpapers in 4K UHD resolution for Widescreen & Ultra HD TV, Desktop, Tablet & Smartphone Devices">🏠</a> &gt; <a href="/search.html?q=coco" title="coco Wallpapers > Page 1 4K HD Wide Wallpapers for Widescreen & Ultra HD TV, Desktop, Tablet & Smartphone">coco Wallpapers > Page 1</a></div>
+                <div class="breadCrumbs" itemprop="breadcrumb"><a href="/" title="WallpapersWide.com ❤ Free High Quality Desktop Wallpapers in 4K UHD resolution for Widescreen & Ultra HD TV, Desktop, Tablet & Smartphone Devices">🏠</a> &gt; <a href="/search.html?q=batman" title="batman Wallpapers > Page 1 4K HD Wide Wallpapers for Widescreen & Ultra HD TV, Desktop, Tablet & Smartphone">batman Wallpapers > Page 1</a></div>
                                      <div itemscope itemtype="http://schema.org/Article"> <ul class="wallpapers">
 
 	<li class="wall" >
 	<div class="thumb">
     	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/coco_chanel_quote_the_best_color-wallpapers.html" title="Coco Chanel Quote The Best Color HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Coco Chanel Quote The Best Color</h1>
+        <a href="/batman_justice_league_part_one-wallpapers.html" title="Batman Justice League Part One HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>Batman Justice League Part One</h1>
         </a>
         </div>
-    	<div class="mini-hud" id="huddown" title="Download Coco Chanel Quote The Best Color HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/coco_chanel_quote_the_best_color.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="200 views | 1247 downloads">
-        	<em>200 views | 1247 downloads</em>
+    	<div class="mini-hud" id="huddown" title="Download Batman Justice League Part One HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/batman_justice_league_part_one.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="4061 views | 9613 downloads">
+        	<em>4061 views | 9613 downloads</em>
         </div>
 		
 				<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-		<meta itemprop="name" content="Coco Chanel Quote The Best Color HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" />
+		<meta itemprop="name" content="Batman Justice League Part One HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" />
 		<meta itemprop="representativeOfPage" content="true" />
-				<a href="/coco_chanel_quote_the_best_color-wallpapers.html" title="View Coco Chanel Quote The Best Color HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-			<img src="http://hd.wallpaperswide.com/thumbs/coco_chanel_quote_the_best_color-t1.jpg" alt="Coco Chanel Quote The Best Color HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" itemprop="url thumbnail" />
+				<a href="/batman_justice_league_part_one-wallpapers.html" title="View Batman Justice League Part One HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+			<img src="http://hd.wallpaperswide.com/thumbs/batman_justice_league_part_one-t1.jpg" alt="Batman Justice League Part One HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" itemprop="url thumbnail" />
 		</a>
 				</div>
 				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Coco Chanel Quote The Best Color : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Coco Chanel Quote The Best Color : HD Wallpaper">HD</span><span class="mini-tags-text" title="Coco Chanel Quote The Best Color : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Coco Chanel Quote The Best Color : Mobile Wallpaper">Mobile</span><span class="mini-tags-text" title="Coco Chanel Quote The Best Color : Dual Wallpaper">Dual</span><span class="mini-tags-text mini-tags-text2" title="Coco Chanel Quote The Best Color : Original Wallpaper">&copy;</span></span>
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Batman Justice League Part One : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Batman Justice League Part One : HD Wallpaper">HD</span><span class="mini-tags-text" title="Batman Justice League Part One : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Batman Justice League Part One : Mobile Wallpaper">Mobile</span><span class="mini-tags-text" title="Batman Justice League Part One : Dual Wallpaper">Dual</span></span>
          
 <div class="ratingblock-small static">
-<div id="unit_long175183">
-<ul id="unit_ul175183" class="unit-rating-small" style="width:50px;">
-<li class="current-rating" style="width:15px;">1.50/5</li>
+<div id="unit_long174817">
+<ul id="unit_ul174817" class="unit-rating-small" style="width:50px;">
+<li class="current-rating" style="width:20px;">2.00/5</li>
 </ul>
 </div>
 </div>
@@ -898,25 +898,25 @@ googletag.enableServices();
 	<li class="wall" >
 	<div class="thumb">
     	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/coco_chanel_2-wallpapers.html" title="Coco Chanel HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Coco Chanel</h1>
+        <a href="/batman_arkham_origins_12-wallpapers.html" title="Batman Arkham Origins HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>Batman Arkham Origins</h1>
         </a>
         </div>
-    	<div class="mini-hud" id="huddown" title="Download Coco Chanel HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/coco_chanel_2.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="133 views | 917 downloads">
-        	<em>133 views | 917 downloads</em>
+    	<div class="mini-hud" id="huddown" title="Download Batman Arkham Origins HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/batman_arkham_origins_12.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="198118 views | 270352 downloads">
+        	<em>198118 views | 270352 downloads</em>
         </div>
 		
-				<a href="/coco_chanel_2-wallpapers.html" title="View Coco Chanel HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
-			<img src="http://hd.wallpaperswide.com/thumbs/coco_chanel_2-t1.jpg" alt="Coco Chanel HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
+				<a href="/batman_arkham_origins_12-wallpapers.html" title="View Batman Arkham Origins HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
+			<img src="http://hd.wallpaperswide.com/thumbs/batman_arkham_origins_12-t1.jpg" alt="Batman Arkham Origins HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
 		</a>		
 				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Coco Chanel : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Coco Chanel : HD Wallpaper">HD</span><span class="mini-tags-text" title="Coco Chanel : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Coco Chanel : Mobile Wallpaper">Mobile</span><span class="mini-tags-text" title="Coco Chanel : Dual Wallpaper">Dual</span><span class="mini-tags-text mini-tags-text2" title="Coco Chanel : Original Wallpaper">&copy;</span></span>
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Batman Arkham Origins : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Batman Arkham Origins : HD Wallpaper">HD</span><span class="mini-tags-text" title="Batman Arkham Origins : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Batman Arkham Origins : Mobile Wallpaper">Mobile</span><span class="mini-tags-text mini-tags-text2" title="Batman Arkham Origins : Original Wallpaper">&copy;</span></span>
          
 <div class="ratingblock-small static">
-<div id="unit_long175182">
-<ul id="unit_ul175182" class="unit-rating-small" style="width:50px;">
-<li class="current-rating" style="width:0px;">0.00/5</li>
+<div id="unit_long81711">
+<ul id="unit_ul81711" class="unit-rating-small" style="width:50px;">
+<li class="current-rating" style="width:34.3px;">3.43/5</li>
 </ul>
 </div>
 </div>
@@ -927,111 +927,24 @@ googletag.enableServices();
 	<li class="wall" >
 	<div class="thumb">
     	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/coconut_tree_black_and_white-wallpapers.html" title="Coconut Tree Black and White HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Coconut Tree Black and White</h1>
+        <a href="/batman_logo-wallpapers.html" title="Batman Logo HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>Batman Logo</h1>
         </a>
         </div>
-    	<div class="mini-hud" id="huddown" title="Download Coconut Tree Black and White HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/coconut_tree_black_and_white.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="12252 views | 29108 downloads">
-        	<em>12252 views | 29108 downloads</em>
+    	<div class="mini-hud" id="huddown" title="Download Batman Logo HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/batman_logo.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="298933 views | 261609 downloads">
+        	<em>298933 views | 261609 downloads</em>
         </div>
 		
-				<a href="/coconut_tree_black_and_white-wallpapers.html" title="View Coconut Tree Black and White HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
-			<img src="http://hd.wallpaperswide.com/thumbs/coconut_tree_black_and_white-t1.jpg" alt="Coconut Tree Black and White HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
+				<a href="/batman_logo-wallpapers.html" title="View Batman Logo HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
+			<img src="http://hd.wallpaperswide.com/thumbs/batman_logo-t1.jpg" alt="Batman Logo HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
 		</a>		
 				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Coconut Tree Black and White : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Coconut Tree Black and White : HD Wallpaper">HD</span><span class="mini-tags-text" title="Coconut Tree Black and White : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Coconut Tree Black and White : Mobile Wallpaper">Mobile</span></span>
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Batman Logo : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Batman Logo : HD Wallpaper">HD</span><span class="mini-tags-text" title="Batman Logo : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Batman Logo : Mobile Wallpaper">Mobile</span><span class="mini-tags-text" title="Batman Logo : Dual Wallpaper">Dual</span></span>
          
 <div class="ratingblock-small static">
-<div id="unit_long137345">
-<ul id="unit_ul137345" class="unit-rating-small" style="width:50px;">
-<li class="current-rating" style="width:34.1px;">3.41/5</li>
-</ul>
-</div>
-</div>
-
-
-        </div>    
-</li>		
-	<li class="wall" >
-	<div class="thumb">
-    	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/candice_swanepoel_2013_summer-wallpapers.html" title="Candice Swanepoel 2013 Summer HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Candice Swanepoel 2013 Summer</h1>
-        </a>
-        </div>
-    	<div class="mini-hud" id="huddown" title="Download Candice Swanepoel 2013 Summer HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/candice_swanepoel_2013_summer.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="51245 views | 53938 downloads">
-        	<em>51245 views | 53938 downloads</em>
-        </div>
-		
-				<a href="/candice_swanepoel_2013_summer-wallpapers.html" title="View Candice Swanepoel 2013 Summer HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
-			<img src="http://hd.wallpaperswide.com/thumbs/candice_swanepoel_2013_summer-t1.jpg" alt="Candice Swanepoel 2013 Summer HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
-		</a>		
-				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Candice Swanepoel 2013 Summer : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Candice Swanepoel 2013 Summer : HD Wallpaper">HD</span><span class="mini-tags-text" title="Candice Swanepoel 2013 Summer : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Candice Swanepoel 2013 Summer : Mobile Wallpaper">Mobile</span></span>
-         
-<div class="ratingblock-small static">
-<div id="unit_long63780">
-<ul id="unit_ul63780" class="unit-rating-small" style="width:50px;">
-<li class="current-rating" style="width:35.8px;">3.58/5</li>
-</ul>
-</div>
-</div>
-
-
-        </div>    
-</li>		
-	<li class="wall" >
-	<div class="thumb">
-    	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/candice_swanepoel_summer_2013-wallpapers.html" title="Candice Swanepoel Summer 2013 HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Candice Swanepoel Summer 2013</h1>
-        </a>
-        </div>
-    	<div class="mini-hud" id="huddown" title="Download Candice Swanepoel Summer 2013 HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/candice_swanepoel_summer_2013.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="50037 views | 53562 downloads">
-        	<em>50037 views | 53562 downloads</em>
-        </div>
-		
-				<a href="/candice_swanepoel_summer_2013-wallpapers.html" title="View Candice Swanepoel Summer 2013 HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
-			<img src="http://hd.wallpaperswide.com/thumbs/candice_swanepoel_summer_2013-t1.jpg" alt="Candice Swanepoel Summer 2013 HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
-		</a>		
-				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Candice Swanepoel Summer 2013 : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Candice Swanepoel Summer 2013 : HD Wallpaper">HD</span><span class="mini-tags-text" title="Candice Swanepoel Summer 2013 : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Candice Swanepoel Summer 2013 : Mobile Wallpaper">Mobile</span></span>
-         
-<div class="ratingblock-small static">
-<div id="unit_long63781">
-<ul id="unit_ul63781" class="unit-rating-small" style="width:50px;">
-<li class="current-rating" style="width:37.5px;">3.75/5</li>
-</ul>
-</div>
-</div>
-
-
-        </div>    
-</li>		
-	<li class="wall" >
-	<div class="thumb">
-    	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/candice_swanepoel_hot_summer_2013-wallpapers.html" title="Candice Swanepoel Hot Summer 2013 HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Candice Swanepoel Hot Summer...</h1>
-        </a>
-        </div>
-    	<div class="mini-hud" id="huddown" title="Download Candice Swanepoel Hot Summer 2013 HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/candice_swanepoel_hot_summer_2013.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="52250 views | 49051 downloads">
-        	<em>52250 views | 49051 downloads</em>
-        </div>
-		
-				<a href="/candice_swanepoel_hot_summer_2013-wallpapers.html" title="View Candice Swanepoel Hot Summer 2013 HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
-			<img src="http://hd.wallpaperswide.com/thumbs/candice_swanepoel_hot_summer_2013-t1.jpg" alt="Candice Swanepoel Hot Summer 2013 HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
-		</a>		
-				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Candice Swanepoel Hot Summer 2013 : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Candice Swanepoel Hot Summer 2013 : HD Wallpaper">HD</span><span class="mini-tags-text" title="Candice Swanepoel Hot Summer 2013 : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Candice Swanepoel Hot Summer 2013 : Mobile Wallpaper">Mobile</span></span>
-         
-<div class="ratingblock-small static">
-<div id="unit_long63783">
-<ul id="unit_ul63783" class="unit-rating-small" style="width:50px;">
+<div id="unit_long28174">
+<ul id="unit_ul28174" class="unit-rating-small" style="width:50px;">
 <li class="current-rating" style="width:30px;">3.00/5</li>
 </ul>
 </div>
@@ -1043,25 +956,25 @@ googletag.enableServices();
 	<li class="wall" >
 	<div class="thumb">
     	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/grand_canyon_national_park_south_rim_arizona_usa-wallpapers.html" title="Grand Canyon National Park, South Rim, Arizona, USA HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Grand Canyon National Park,...</h1>
+        <a href="/injustice_2_batman-wallpapers.html" title="Injustice 2 Batman HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>Injustice 2 Batman</h1>
         </a>
         </div>
-    	<div class="mini-hud" id="huddown" title="Download Grand Canyon National Park, South Rim, Arizona, USA HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/grand_canyon_national_park_south_rim_arizona_usa.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="18552 views | 26338 downloads">
-        	<em>18552 views | 26338 downloads</em>
+    	<div class="mini-hud" id="huddown" title="Download Injustice 2 Batman HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/injustice_2_batman.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="38323 views | 63991 downloads">
+        	<em>38323 views | 63991 downloads</em>
         </div>
 		
-				<a href="/grand_canyon_national_park_south_rim_arizona_usa-wallpapers.html" title="View Grand Canyon National Park, South Rim, Arizona, USA HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
-			<img src="http://hd.wallpaperswide.com/thumbs/grand_canyon_national_park_south_rim_arizona_usa-t1.jpg" alt="Grand Canyon National Park, South Rim, Arizona, USA HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
+				<a href="/injustice_2_batman-wallpapers.html" title="View Injustice 2 Batman HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
+			<img src="http://hd.wallpaperswide.com/thumbs/injustice_2_batman-t1.jpg" alt="Injustice 2 Batman HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
 		</a>		
 				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Grand Canyon National Park, South Rim, Arizona, USA : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Grand Canyon National Park, South Rim, Arizona, USA : HD Wallpaper">HD</span><span class="mini-tags-text" title="Grand Canyon National Park, South Rim, Arizona, USA : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Grand Canyon National Park, South Rim, Arizona, USA : Mobile Wallpaper">Mobile</span></span>
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Injustice 2 Batman : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Injustice 2 Batman : HD Wallpaper">HD</span><span class="mini-tags-text" title="Injustice 2 Batman : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Injustice 2 Batman : Mobile Wallpaper">Mobile</span><span class="mini-tags-text" title="Injustice 2 Batman : Dual Wallpaper">Dual</span><span class="mini-tags-text mini-tags-text2" title="Injustice 2 Batman : Original Wallpaper">&copy;</span></span>
          
 <div class="ratingblock-small static">
-<div id="unit_long119775">
-<ul id="unit_ul119775" class="unit-rating-small" style="width:50px;">
-<li class="current-rating" style="width:39.1px;">3.91/5</li>
+<div id="unit_long158682">
+<ul id="unit_ul158682" class="unit-rating-small" style="width:50px;">
+<li class="current-rating" style="width:32.6px;">3.26/5</li>
 </ul>
 </div>
 </div>
@@ -1072,25 +985,25 @@ googletag.enableServices();
 	<li class="wall" >
 	<div class="thumb">
     	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/coco_chanel-wallpapers.html" title="Coco Chanel HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Coco Chanel</h1>
+        <a href="/batman_arkham_knight_9-wallpapers.html" title="Batman Arkham Knight HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>Batman Arkham Knight</h1>
         </a>
         </div>
-    	<div class="mini-hud" id="huddown" title="Download Coco Chanel HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/coco_chanel.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="46764 views | 26299 downloads">
-        	<em>46764 views | 26299 downloads</em>
+    	<div class="mini-hud" id="huddown" title="Download Batman Arkham Knight HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/batman_arkham_knight_9.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="74614 views | 137966 downloads">
+        	<em>74614 views | 137966 downloads</em>
         </div>
 		
-				<a href="/coco_chanel-wallpapers.html" title="View Coco Chanel HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
-			<img src="http://hd.wallpaperswide.com/thumbs/coco_chanel-t1.jpg" alt="Coco Chanel HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
+				<a href="/batman_arkham_knight_9-wallpapers.html" title="View Batman Arkham Knight HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
+			<img src="http://hd.wallpaperswide.com/thumbs/batman_arkham_knight_9-t1.jpg" alt="Batman Arkham Knight HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
 		</a>		
 				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Coco Chanel : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Coco Chanel : HD Wallpaper">HD</span><span class="mini-tags-text" title="Coco Chanel : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Coco Chanel : Mobile Wallpaper">Mobile</span><span class="mini-tags-text mini-tags-text2" title="Coco Chanel : Original Wallpaper">&copy;</span></span>
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Batman Arkham Knight : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Batman Arkham Knight : HD Wallpaper">HD</span><span class="mini-tags-text" title="Batman Arkham Knight : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Batman Arkham Knight : Mobile Wallpaper">Mobile</span><span class="mini-tags-text" title="Batman Arkham Knight : Dual Wallpaper">Dual</span></span>
          
 <div class="ratingblock-small static">
-<div id="unit_long63849">
-<ul id="unit_ul63849" class="unit-rating-small" style="width:50px;">
-<li class="current-rating" style="width:32.9px;">3.29/5</li>
+<div id="unit_long122150">
+<ul id="unit_ul122150" class="unit-rating-small" style="width:50px;">
+<li class="current-rating" style="width:33.9px;">3.39/5</li>
 </ul>
 </div>
 </div>
@@ -1101,25 +1014,25 @@ googletag.enableServices();
 	<li class="wall" >
 	<div class="thumb">
     	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/candice_swanepoel_agua_de_coco_swimsuit-wallpapers.html" title="Candice Swanepoel Agua De Coco Swimsuit HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Candice Swanepoel Agua De...</h1>
+        <a href="/batman_trilogy-wallpapers.html" title="Batman Trilogy HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>Batman Trilogy</h1>
         </a>
         </div>
-    	<div class="mini-hud" id="huddown" title="Download Candice Swanepoel Agua De Coco Swimsuit HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/candice_swanepoel_agua_de_coco_swimsuit.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="30940 views | 24833 downloads">
-        	<em>30940 views | 24833 downloads</em>
+    	<div class="mini-hud" id="huddown" title="Download Batman Trilogy HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/batman_trilogy.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="175544 views | 269686 downloads">
+        	<em>175544 views | 269686 downloads</em>
         </div>
 		
-				<a href="/candice_swanepoel_agua_de_coco_swimsuit-wallpapers.html" title="View Candice Swanepoel Agua De Coco Swimsuit HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
-			<img src="http://hd.wallpaperswide.com/thumbs/candice_swanepoel_agua_de_coco_swimsuit-t1.jpg" alt="Candice Swanepoel Agua De Coco Swimsuit HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
+				<a href="/batman_trilogy-wallpapers.html" title="View Batman Trilogy HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
+			<img src="http://hd.wallpaperswide.com/thumbs/batman_trilogy-t1.jpg" alt="Batman Trilogy HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
 		</a>		
 				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Candice Swanepoel Agua De Coco Swimsuit : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Candice Swanepoel Agua De Coco Swimsuit : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Candice Swanepoel Agua De Coco Swimsuit : Mobile Wallpaper">Mobile</span></span>
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Batman Trilogy : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Batman Trilogy : HD Wallpaper">HD</span><span class="mini-tags-text" title="Batman Trilogy : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Batman Trilogy : Mobile Wallpaper">Mobile</span></span>
          
 <div class="ratingblock-small static">
-<div id="unit_long63786">
-<ul id="unit_ul63786" class="unit-rating-small" style="width:50px;">
-<li class="current-rating" style="width:31.4px;">3.14/5</li>
+<div id="unit_long41902">
+<ul id="unit_ul41902" class="unit-rating-small" style="width:50px;">
+<li class="current-rating" style="width:35.3px;">3.53/5</li>
 </ul>
 </div>
 </div>
@@ -1130,25 +1043,112 @@ googletag.enableServices();
 	<li class="wall" >
 	<div class="thumb">
     	<div class="mini-hud" id="hudtitle" align="center">
-        <a href="/candice_swanepoel_hot_2013-wallpapers.html" title="Candice Swanepoel Hot 2013 HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
-        <h1>Candice Swanepoel Hot 2013</h1>
+        <a href="/batman_arkham_knight-wallpapers.html" title="Batman Arkham Knight HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>Batman Arkham Knight</h1>
         </a>
         </div>
-    	<div class="mini-hud" id="huddown" title="Download Candice Swanepoel Hot 2013 HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/candice_swanepoel_hot_2013.html');"></div>
-    	<div class="mini-hud" id="hudvisits" title="29899 views | 16014 downloads">
-        	<em>29899 views | 16014 downloads</em>
+    	<div class="mini-hud" id="huddown" title="Download Batman Arkham Knight HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/batman_arkham_knight.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="154626 views | 156999 downloads">
+        	<em>154626 views | 156999 downloads</em>
         </div>
 		
-				<a href="/candice_swanepoel_hot_2013-wallpapers.html" title="View Candice Swanepoel Hot 2013 HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
-			<img src="http://hd.wallpaperswide.com/thumbs/candice_swanepoel_hot_2013-t1.jpg" alt="Candice Swanepoel Hot 2013 HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
+				<a href="/batman_arkham_knight-wallpapers.html" title="View Batman Arkham Knight HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
+			<img src="http://hd.wallpaperswide.com/thumbs/batman_arkham_knight-t1.jpg" alt="Batman Arkham Knight HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
 		</a>		
 				
-			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Candice Swanepoel Hot 2013 : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Candice Swanepoel Hot 2013 : HD Wallpaper">HD</span><span class="mini-tags-text" title="Candice Swanepoel Hot 2013 : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Candice Swanepoel Hot 2013 : Mobile Wallpaper">Mobile</span></span>
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Batman Arkham Knight : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Batman Arkham Knight : HD Wallpaper">HD</span><span class="mini-tags-text" title="Batman Arkham Knight : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Batman Arkham Knight : Mobile Wallpaper">Mobile</span><span class="mini-tags-text mini-tags-text2" title="Batman Arkham Knight : Original Wallpaper">&copy;</span></span>
          
 <div class="ratingblock-small static">
-<div id="unit_long63788">
-<ul id="unit_ul63788" class="unit-rating-small" style="width:50px;">
-<li class="current-rating" style="width:32.1px;">3.21/5</li>
+<div id="unit_long92827">
+<ul id="unit_ul92827" class="unit-rating-small" style="width:50px;">
+<li class="current-rating" style="width:31.2px;">3.12/5</li>
+</ul>
+</div>
+</div>
+
+
+        </div>    
+</li>		
+	<li class="wall" >
+	<div class="thumb">
+    	<div class="mini-hud" id="hudtitle" align="center">
+        <a href="/batman_superman_face_off-wallpapers.html" title="Batman Superman Face Off HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>Batman Superman Face Off</h1>
+        </a>
+        </div>
+    	<div class="mini-hud" id="huddown" title="Download Batman Superman Face Off HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/batman_superman_face_off.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="51731 views | 88845 downloads">
+        	<em>51731 views | 88845 downloads</em>
+        </div>
+		
+				<a href="/batman_superman_face_off-wallpapers.html" title="View Batman Superman Face Off HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
+			<img src="http://hd.wallpaperswide.com/thumbs/batman_superman_face_off-t1.jpg" alt="Batman Superman Face Off HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
+		</a>		
+				
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Batman Superman Face Off : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Batman Superman Face Off : HD Wallpaper">HD</span><span class="mini-tags-text" title="Batman Superman Face Off : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Batman Superman Face Off : Mobile Wallpaper">Mobile</span></span>
+         
+<div class="ratingblock-small static">
+<div id="unit_long132650">
+<ul id="unit_ul132650" class="unit-rating-small" style="width:50px;">
+<li class="current-rating" style="width:32.8px;">3.28/5</li>
+</ul>
+</div>
+</div>
+
+
+        </div>    
+</li>		
+	<li class="wall" >
+	<div class="thumb">
+    	<div class="mini-hud" id="hudtitle" align="center">
+        <a href="/batman_v_superman_dawn_of_justice_2016-wallpapers.html" title="Batman v Superman Dawn of Justice 2016 HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>Batman v Superman Dawn of...</h1>
+        </a>
+        </div>
+    	<div class="mini-hud" id="huddown" title="Download Batman v Superman Dawn of Justice 2016 HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/batman_v_superman_dawn_of_justice_2016.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="89760 views | 76050 downloads">
+        	<em>89760 views | 76050 downloads</em>
+        </div>
+		
+				<a href="/batman_v_superman_dawn_of_justice_2016-wallpapers.html" title="View Batman v Superman Dawn of Justice 2016 HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
+			<img src="http://hd.wallpaperswide.com/thumbs/batman_v_superman_dawn_of_justice_2016-t1.jpg" alt="Batman v Superman Dawn of Justice 2016 HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
+		</a>		
+				
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="Batman v Superman Dawn of Justice 2016 : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="Batman v Superman Dawn of Justice 2016 : HD Wallpaper">HD</span><span class="mini-tags-text" title="Batman v Superman Dawn of Justice 2016 : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="Batman v Superman Dawn of Justice 2016 : Mobile Wallpaper">Mobile</span><span class="mini-tags-text" title="Batman v Superman Dawn of Justice 2016 : Dual Wallpaper">Dual</span></span>
+         
+<div class="ratingblock-small static">
+<div id="unit_long98806">
+<ul id="unit_ul98806" class="unit-rating-small" style="width:50px;">
+<li class="current-rating" style="width:25.1px;">2.51/5</li>
+</ul>
+</div>
+</div>
+
+
+        </div>    
+</li>		
+	<li class="wall" >
+	<div class="thumb">
+    	<div class="mini-hud" id="hudtitle" align="center">
+        <a href="/batmanvsuperman_ben-wallpapers.html" title="BatmanvSuperman_Ben HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices">
+        <h1>BatmanvSuperman_Ben</h1>
+        </a>
+        </div>
+    	<div class="mini-hud" id="huddown" title="Download BatmanvSuperman_Ben HD wallpaper for desktop & smartphone" onclick="prevframe_show('http://wallpaperswide.com/wallite/batmanvsuperman_ben.html');"></div>
+    	<div class="mini-hud" id="hudvisits" title="35255 views | 58098 downloads">
+        	<em>35255 views | 58098 downloads</em>
+        </div>
+		
+				<a href="/batmanvsuperman_ben-wallpapers.html" title="View BatmanvSuperman_Ben HD Wide Wallpaper for 4K UHD Widescreen desktop & mobile devices" ">
+			<img src="http://hd.wallpaperswide.com/thumbs/batmanvsuperman_ben-t1.jpg" alt="BatmanvSuperman_Ben HD Wide Wallpaper for 4K UHD Widescreen desktop & smartphone" class="thumb_img" />
+		</a>		
+				
+			<span class="mini-tags-m mini-tags-2"><span class="mini-tags-text" title="BatmanvSuperman_Ben : Wide Wallpaper">Wide</span><span class="mini-tags-text" title="BatmanvSuperman_Ben : HD Wallpaper">HD</span><span class="mini-tags-text" title="BatmanvSuperman_Ben : Standard Wallpaper">Standard</span><span class="mini-tags-text" title="BatmanvSuperman_Ben : Mobile Wallpaper">Mobile</span></span>
+         
+<div class="ratingblock-small static">
+<div id="unit_long127256">
+<ul id="unit_ul127256" class="unit-rating-small" style="width:50px;">
+<li class="current-rating" style="width:28.3px;">2.83/5</li>
 </ul>
 </div>
 </div>
@@ -1159,8 +1159,8 @@ googletag.enableServices();
 <li class="reset"></li>
 </ul>
 
-<meta itemprop="headline" content="WallpapersWide.com ❤ coco HD Wallpapers for 4K Ultra HD TV ★ Wide &amp; Ultra Widescreen..." />
-<meta itemprop="description" content="WallpapersWide.com ❤ coco HD Desktop Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Monitor / Multi Display Desktops ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1" />
+<meta itemprop="headline" content="WallpapersWide.com ❤ batman HD Wallpapers for 4K Ultra HD TV ★ Wide &amp; Ultra Widescreen..." />
+<meta itemprop="description" content="WallpapersWide.com ❤ batman HD Desktop Wallpapers for 4K Ultra HD TV ★ Wide & Ultra Widescreen Displays ★ Dual Monitor / Multi Display Desktops ★ Tablet ★ Smartphone ★ Mobile Devices | Page 1" />
 <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage"  />
 <meta itemprop="datePublished" content="2018-05-10"/>
 <meta itemprop="dateModified" content="2018-05-10"/>
@@ -1183,7 +1183,7 @@ googletag.enableServices();
 
 </div>
 <div class="reset"></div>
-<div class="pagination"><span class="disabled">&#171; Previous</span><span class="selected">1</span><a href="/search/page/2?q=coco">2</a><a href="/search/page/3?q=coco">3</a><a href="/search/page/2?q=coco">Next &#187;</a></div>
+<div class="pagination"><span class="disabled">&#171; Previous</span><span class="selected">1</span><a href="/search/page/2?q=batman">2</a><a href="/search/page/3?q=batman">3</a><a href="/search/page/4?q=batman">4</a>...<a href="/search/page/17?q=batman">17</a><a href="/search/page/18?q=batman">18</a><a href="/search/page/19?q=batman">19</a><a href="/search/page/2?q=batman">Next &#187;</a></div>
 
 
                 								<br class="reset" clear="all" />

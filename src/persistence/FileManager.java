@@ -10,9 +10,9 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
-//import java.io.PrintWriter;
-//import java.net.InetSocketAddress;
-//import java.net.Proxy;
+import java.io.PrintWriter;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
 import java.net.URL;
 import java.net.URLConnection;
 import java.nio.file.Files;
@@ -23,46 +23,46 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import javax.imageio.ImageIO;
-import javax.swing.ImageIcon;
 
 import models.Image;
 import models.Manager;
 
+@SuppressWarnings("unused")
 public class FileManager {
 
 	public static final String URL_PAGE = "http://wallpaperswide.com/search.html?q=";
-//	public static final String FOLDER = "src/files";
+	public static final String FOLDER = "src/files";
 	public static final File FILE = new File("src/files/file.txt");
 	public static final String READ_FILE = "src/files/file.txt";
 	private static final String REGULAR_PHRASE = "http://([\\w\\\\.\\d\\/\\-])+.jpg";
 
 	private BufferedReader bufferedReader;
 
-	/*public void downloadFileTwo(String image) throws IOException {
+	public void downloadFileTwo(String image) throws IOException {
 		Proxy proxy = new Proxy(Proxy.Type.HTTP, new InetSocketAddress("172.16.0.73", 8080));
 		URL url = new URL(URL_PAGE + image); 
 		URLConnection connection = url.openConnection(proxy);
 		connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2");
 		BufferedInputStream in = new BufferedInputStream(connection.getInputStream());
 		int ch;
-		PrintWriter printWriter = new PrintWriter(FILE);
+		PrintWriter printWriter = new PrintWriter("src/files/file.txt");
 		while ((ch = in.read()) != -1) {
 			printWriter.append((char) ch);
 		}
 		printWriter.close();
-	}*/
+	}
 
 	public void downloadFile(String image) throws IOException {
 		URLConnection website = new URL(URL_PAGE + image).openConnection();
 		website.addRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0");
 		try (InputStream in = website.getInputStream()) {
-			Files.copy(in, Paths.get("src/files/nuevo.txt"), StandardCopyOption.REPLACE_EXISTING);
+			Files.copy(in, Paths.get("src/files/file.txt"), StandardCopyOption.REPLACE_EXISTING);
 		}
 	}
 
-	public ArrayList<ImageIcon> readPlayer() throws IOException {
-		ArrayList<ImageIcon> imageList = new ArrayList<>();
-		File file = new File ("src/files/nuevo.txt");
+	public ArrayList<Image> readPlayer() throws IOException {
+		ArrayList<Image> imageList = new ArrayList<>();
+		File file = new File ("src/files/file.txt");
 		FileReader fileReader = new FileReader (file);
 		bufferedReader = new BufferedReader(fileReader);
 
@@ -79,34 +79,24 @@ public class FileManager {
 			if (m.find()) {
 				pathImage = m.group();
 				System.out.println(count + " - " + m.group());
-//				imageList.add(Manager.createImage(pathImage));
-				imageList.add(new ImageIcon(pathImage));
+				imageList.add(Manager.createImage(pathImage));
 				downloadsImages(imageList);
 			}
 		}
 		return imageList;
 	}
 
-	public ArrayList<ImageIcon> getImageList(){
-		ArrayList<ImageIcon> icons = new ArrayList<>();
-		File[] imgFiles = new File("images/").listFiles();
-		String pathImages = "";
-		for (File file : imgFiles) {
-			System.out.println(";;" + file.getPath());
-			file.getPath();
-		}
-		
-		icons.add(new ImageIcon(pathImages));
-		return icons;
-	}
-	
 
 
-	public void downloadsImages(ArrayList<ImageIcon> list) throws IOException {
+	public void downloadsImages(ArrayList<Image> list) throws IOException {
 		int count = 0;
-		for (ImageIcon image : list) {
+//		int countP = 0;
+		for (Image image : list) {
+//			if (countP >= 3) {
+//				break;
+//			}
 			count++;
-			URL url = new URL(image + "");
+			URL url = new URL(image.getPathImage());
 			InputStream in = new BufferedInputStream(url.openStream());
 			ByteArrayOutputStream out = new ByteArrayOutputStream();
 			byte[] buf = new byte[1024];
@@ -119,6 +109,7 @@ public class FileManager {
 			byte[] response = out.toByteArray();
 
 			FileOutputStream fos = new FileOutputStream("images/"  +count + ".jpg");
+//			countP++;
 			fos.write(response);
 			fos.close();
 		}
@@ -132,6 +123,17 @@ public class FileManager {
 		}
 	}
 
+	public ArrayList<Image> addlistilter() throws IOException {
+		ArrayList<Image> list = new ArrayList<>();
+		File[] imgFiles = new File("imagesFilter/").listFiles();
+		for (File file : imgFiles) {
+			list.add(new Image(file.getAbsolutePath()));
+		}
+		//		list.remove(list.size()-1);
+		//		list.remove(list.size()-1);
+		return list;
+	}
+
 	public void addFilterToImage(File file, BufferedImage bufferedImage) throws IOException {
 		for (int i = 0; i < bufferedImage.getWidth(); i++) {
 			for (int j = 0; j < bufferedImage.getHeight(); j++) {
@@ -140,27 +142,7 @@ public class FileManager {
 				bufferedImage.setRGB(i, j, new Color(med,med,med).getRGB());
 			}
 		}
-		ImageIO.write(bufferedImage, "jpg", new File("images/" + file.getName()));
-	}
-
-	public ArrayList<Image> getImagesFilter() {
-		File[] imgFiles = new File("imagesFilter/").listFiles();
-		ArrayList<Image> images = new ArrayList<>();
-		for (File file : imgFiles) {
-			images.add(Manager.createImage(file.getPath()));
-//			System.out.println(file.getPath());
-		}
-		
-//		for (Image image : images) {
-//			System.out.println(image.getPathImage());
-//		}
-//		System.out.println(images.toArray());
-		return images;
-	}
-
-	public static void main(String[] args) {
-		FileManager fileManager = new FileManager();
-		fileManager.getImageList();
+		ImageIO.write(bufferedImage, "jpg", new File("imagesFilter/" + file.getName()));
 	}
 
 	/*public static void main(String[] args) {

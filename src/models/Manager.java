@@ -19,6 +19,8 @@ public class Manager {
 	}
 	
 	public ArrayList<Image> getImageList(){
+//		images.remove(images.size()-1);
+//		images.remove(images.size()-1);
 		return images;
 	}
 }
