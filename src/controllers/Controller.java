@@ -1,5 +1,12 @@
 package controllers;
 
-public class Controller {
+import views.MainWindow;
 
+public class Controller {
+	
+	private MainWindow mainWindow;
+	
+	public Controller() {
+		mainWindow = new MainWindow(this);
+	}
 }
