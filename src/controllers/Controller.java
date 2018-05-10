@@ -14,20 +14,19 @@ public class Controller implements ActionListener{
 
 	private FileManager fileManager;
 	private Manager manager;
-	@SuppressWarnings("unused")
 	private MainWindow mainWindow;
 
-	public Controller() {
+	public Controller() throws IOException {
 		String image = JOptionPane.showInputDialog(null, "Search", "WallpapersDownload v1.0", JOptionPane.DEFAULT_OPTION);
 		fileManager = new FileManager();
-		try {
-			fileManager.downloadFile(image);
-			manager = new Manager(fileManager.readPlayer());
-			fileManager.addImageFilter();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		mainWindow = new MainWindow(this, manager.getImageList());
+		fileManager.downloadFile(image);
+		
+		fileManager.readPlayer();
+		fileManager.addImageFilter();
+		System.out.println("cargar");
+		mainWindow = new MainWindow(this);
+		System.out.println("main");
+//		mainWindow.setImages(fileManager.getImageList());
 	}
 
 	@Override

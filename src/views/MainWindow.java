@@ -18,7 +18,7 @@ public class MainWindow extends JFrame{
 	private JPanelImages jPanelImages;
 	private JButton btnFilter;
 
-	public MainWindow(Controller controller, ArrayList<Image> images) {
+	public MainWindow(Controller controller) {
 		setLayout(new BorderLayout());
 		setBackground(Color.WHITE);
 		setTitle("WallpapersDownload v1.0");
@@ -27,39 +27,21 @@ public class MainWindow extends JFrame{
 		setExtendedState(MAXIMIZED_BOTH);		
 		setLocationRelativeTo(null);
 		
-		init(controller, images);
-		
-		setVisible(true);
-	}
-	
-	public MainWindow(Controller controller) {
-		setLayout(new BorderLayout());
-		setBackground(Color.BLUE);
-		setTitle("WallpapersDownload v1.0");
-		setIconImage(new ImageIcon("src/images/icon.png").getImage());
-		setDefaultCloseOperation(EXIT_ON_CLOSE);
-		setExtendedState(MAXIMIZED_BOTH);		
-		setLocationRelativeTo(null);
-		
-		btnFilter = new JButton("Filter");
-		btnFilter.setActionCommand(Events.FILTER.toString());
-		btnFilter.addActionListener(controller);
-		add(btnFilter, BorderLayout.SOUTH);
-		
-		setVisible(true);
-	}
-	
-	public void init(Controller controller, ArrayList<Image> images) {
-		jPanelImages = new JPanelImages(images);
+		jPanelImages = new JPanelImages();
 		add(jPanelImages, BorderLayout.CENTER);
 		
 		btnFilter = new JButton("Filter");
 		btnFilter.setActionCommand(Events.FILTER.toString());
 		btnFilter.addActionListener(controller);
 		add(btnFilter, BorderLayout.SOUTH);
+		
+		setVisible(true);
 	}
 	
-	public void deleteImages() {
-		jPanelImages.removeAll();
+	public void setImages(ArrayList<ImageIcon> imagesFilter) {
+		System.out.println("11111");
+		jPanelImages.addArrayImageList(imagesFilter);
+		revalidate();
 	}
+	
 }
