@@ -77,7 +77,7 @@ public class FileManager {
 				pathImage = m.group();
 				System.out.println(count + " - " + m.group());
 				imageList.add(pathImage);
-//				downloadsImages(imageList);
+				downloadsImages(imageList);
 			}
 		}
 		//		System.out.println(imageList);
@@ -111,20 +111,20 @@ public class FileManager {
 	public void addImageFilter() throws IOException {
 		File[] imgFiles = new File("images/").listFiles();
 		for (File file : imgFiles) {
-//			addFilterToImage(file, ImageIO.read(file));
+			addFilterToImage(file, ImageIO.read(file));
 		}
 	}
 	
-//	private static void addFilterToImage(File file, BufferedImage bufferedImage) throws IOException {
-//		for (int i = 0; i < bufferedImage.getWidth(); i++) {
-//			for (int j = 0; j < bufferedImage.getHeight(); j++) {
-//				Color c1=new Color(bufferedImage.getRGB(i, j));
-//                int med=(c1.getRed()+c1.getGreen()+c1.getBlue())/3;
-//                bufferedImage.setRGB(i, j, new Color(med,med,med).getRGB());
-//			}
-//		}
-//		ImageIO.write(bufferedImage, "jpg", new File("imagesFilter/" + file.getName()));
-//	}
+	private static void addFilterToImage(File file, BufferedImage bufferedImage) throws IOException {
+		for (int i = 0; i < bufferedImage.getWidth(); i++) {
+			for (int j = 0; j < bufferedImage.getHeight(); j++) {
+				Color c1=new Color(bufferedImage.getRGB(i, j));
+                int med=(c1.getRed()+c1.getGreen()+c1.getBlue())/3;
+                bufferedImage.setRGB(i, j, new Color(med,med,med).getRGB());
+			}
+		}
+		ImageIO.write(bufferedImage, "jpg", new File("imagesFilter/" + file.getName()));
+	}
 	
 
 	public static void main(String[] args) {
