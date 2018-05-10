@@ -24,6 +24,9 @@ import java.util.regex.Pattern;
 
 import javax.imageio.ImageIO;
 
+import models.Image;
+import models.Manager;
+
 public class FileManager {
 
 	public static final String URL_PAGE = "http://wallpaperswide.com/search.html?q=";
@@ -48,7 +51,7 @@ public class FileManager {
 		printWriter.close();
 	}*/
 
-	public static void downloadFile(String image) throws IOException {
+	public void downloadFile(String image) throws IOException {
 		URLConnection website = new URL(URL_PAGE + image).openConnection();
 		website.addRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0");
 		try (InputStream in = website.getInputStream()) {
@@ -56,8 +59,8 @@ public class FileManager {
 		}
 	}
 
-	public ArrayList<String> readPlayer() throws IOException {
-		ArrayList<String> imageList = new ArrayList<>();
+	public ArrayList<Image> readPlayer() throws IOException {
+		ArrayList<Image> imageList = new ArrayList<>();
 		File file = new File ("src/files/file.txt");
 		FileReader fileReader = new FileReader (file);
 		bufferedReader = new BufferedReader(fileReader);
@@ -75,7 +78,7 @@ public class FileManager {
 			if (m.find()) {
 				pathImage = m.group();
 				System.out.println(count + " - " + m.group());
-				imageList.add(pathImage);
+				imageList.add(Manager.createImage(pathImage));
 				downloadsImages(imageList);
 			}
 		}
@@ -84,11 +87,11 @@ public class FileManager {
 
 
 
-	public void downloadsImages(ArrayList<String> list) throws IOException {
+	public void downloadsImages(ArrayList<Image> list) throws IOException {
 		int count = 0;
-		for (String string : list) {
+		for (Image image : list) {
 			count++;
-			URL url = new URL(string);
+			URL url = new URL(image.getPathImage());
 			InputStream in = new BufferedInputStream(url.openStream());
 			ByteArrayOutputStream out = new ByteArrayOutputStream();
 			byte[] buf = new byte[1024];
@@ -109,6 +112,7 @@ public class FileManager {
 	public void addImageFilter() throws IOException {
 		File[] imgFiles = new File("images/").listFiles();
 		for (File file : imgFiles) {
+			System.out.println(file.getPath());
 			addFilterToImage(file, ImageIO.read(file));
 		}
 	}
@@ -124,8 +128,7 @@ public class FileManager {
 		ImageIO.write(bufferedImage, "jpg", new File("imagesFilter/" + file.getName()));
 	}
 
-
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		FileManager fileManager = new FileManager();
 
 		try {
@@ -139,5 +142,5 @@ public class FileManager {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-	}
+	}*/
 }
